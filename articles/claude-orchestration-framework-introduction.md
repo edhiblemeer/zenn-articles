@@ -56,7 +56,7 @@ TASK-QA-003: E2Eテスト自動化
 
 リアルタイム監視ダッシュボードで、全タスクの進捗を可視化：
 
-![Dashboard全体画面](/images/dashboard-overview.png)
+![Dashboard全体画面](https://raw.githubusercontent.com/edhiblemeer/zenn-articles/main/images/dashboard-overview.png)
 *Claude Orchestration Dashboard - PM Message対話とタスク管理*
 
 **表示内容**:
@@ -97,7 +97,7 @@ Option B: プロパティベーステストで99%+カバレッジ達成
 
 ### タスク管理ビュー
 
-![タスク一覧画面](/images/tmux-parallel-execution.png)
+![タスク一覧画面](https://raw.githubusercontent.com/edhiblemeer/zenn-articles/main/images/tmux-parallel-execution.png)
 *タスク一覧と進捗状況 - Backend/DevOps並列実行*
 
 **タスクステータス**:
