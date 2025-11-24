@@ -1,0 +1,17 @@
+title: "VSEA実践マニュアル - 業務アプリを爆速開発する新手法"
+summary: "VSEA (Vertical Slice Evolutionary Architecture)の実践ガイド。基本原則からフェーズ別詳細、実際の課題と解決策まで体系化。"
+topics: ["開発手法", "アーキテクチャ", "アジャイル", "設計", "ベストプラクティス"]
+published: true
+price: 0
+chapters:
+  - introduction
+  - basic-principles
+  - phase1-ux-design
+  - phase2-skeleton
+  - phase3-vertical-slices
+  - phase4-enhancement
+  - slice-design-methods
+  - practical-challenges
+  - checklists
+  - templates
+  - faq
